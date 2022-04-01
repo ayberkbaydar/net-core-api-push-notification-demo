@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "XtBod7WNFqsAXHyhSeaDXvpxrpXmZ+/z+msulqm8TVWJvnAZUhW52FYv8AaVl5MoriWrQhEEw25Mt7D86Kflbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abaydar\\Documents\\GitHub\\net-core-api-push-notification-demo\\net-core-api-push-notification-demo\\net-core-api-push-notification-demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abaydar\\.nuget\\packages\\corepush\\3.0.10\\corepush.3.0.10.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\abaydar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
